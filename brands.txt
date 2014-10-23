@@ -5,16 +5,16 @@ Peter Jones
 Blueberry and Field LLC
 735 Morning Star Lane
 Boyce, VA 22620
-7/1/14
-6/30/19
+07/01/2014
+06/30/2019
 L. Hip
 
 2
 Kendrick Harrison
 P.O. Box 10382
 Blacksburg, VA 24062-0382
-7/1/14
-6/30/19
+07/01/2014
+06/30/2019
 R Hip
 
 3
@@ -22,7 +22,8 @@ Charlie R. Ward
 Wards Cattle Co, LLC.
 302 Stoneacres Lane
 Independence, VA 24348
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 R. Hip
 
 4
@@ -30,15 +31,16 @@ Gregory H. Granger
 Lone-G, Inc.
 1005 Richmond Road
 Williamsburg, VA 23185
-7/1/14
-6/30/19
+07/01/2014
+06/30/2019
 L Hip
 
 5
 Merlin Miller
 434 Raines Tavern Road
 Farmville, VA 23901
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 R Hip
 
 6
@@ -46,62 +48,71 @@ Allen S. Brantley
 Lake Country Longhorns
 1012 Witch Point Trail
 Virginia Beach, VA 23455
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L. Hip
 
 7
 Kevin Rutkowski
 2570 Robertsons Rd
 Blackstone, VA 23824
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L. Rib
 
 8
 Kevin Rutkowski
 2570 Robertsons Rd
 Blackstone, VA 23824
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L. Rib
 
 Edwin G. Wagoner
 Black L'ck Cattle Co.
 9 1968 Black Lick Road (‘bf 
 Rural Retreat, VA 24368
-7/ 1/ 14 6/30/19
+07/01/2014
+06/30/2019
 L Hip
 
 Colonel Elijah Toney
 « 4 River Ranch, LLC
 10 113 Tom, Road 1;? 
 Williamsburg, VA 23185
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L Hip
 
 Jean W Payne
 DBA Mousetrap Farm M
 11 2098 W Courthouse Road
 Crewe, VA 23930
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L. Hip
 
 Virginia Tech McCormick Farm
 David Fiske _
 12 128 McCormick Farm Circle éy 
 Raphine, VA 24472
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 R. H11)
 
 Virginia Tech McCormick Farm
 David F iske
 13 128 McCormick Farm Circle \"1’/ 
 Raphine, VA 24472
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 R. Hip
 
 Cyril T. Reasner
 14 2082 Virgilina Road V4 
 Virgilina, VA 24598 L H_
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 . 1p
 
 Smithﬁeld Investments LLC
@@ -110,60 +121,70 @@ Smithﬁeld Farms
 15 JHA Smlth 
 16335 US Hwy 19
 Rosedale, VA 24280
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 R Hip
 
 William R. Brockett
 Virginia Beef Corporation \/
 16 1215 James Madison Highway “ 
 Haymarket, VA 20169
-7/1/14
-6/30/19
+07/01/2014
+06/30/2019
 R Hip
 
 Anthony & Geraldine F icarra
 GNT Ranch
 17 2209 geviue Road €71 Jr 
 Madison, VA 22727
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L Hip
 
 Michael Kopec
 18 428  Washington Street
 Hennco, VA 23075
-7/1/14
-6/30/19
+07/01/2014
+06/30/2019
 L Hip
 
 Craig Hammond
 CH C ttl C
-19 25577aBl:e I(~)IIiIl1lPsaL1))r,ive Ch‘ 7/ 1/ 14 6/30/ 19
-Glade Springs, VA 24340 L Hip
+19 25577aBl:e I(~)IIiIl1lPsaL1))r,ive Ch‘
+Glade Springs, VA 24340
+07/01/2014
+06/30/2019
+L Hip
 
 Eric D. Umberger
-20 2254 Black Lick Road U 7/1/14 6/30/19
-Rural Retreat, VA 24368 R H1p
+20 2254 Black Lick Road
+Rural Retreat, VA 24368
+07/01/2014
+06/30/2019
+R H1p
 
 Michael & Aaron Ball
 Ball Farms
-21 1)1O_BO,11256 I‘? 7/1/14 6/30/19
-Honaker, VA 24260 L‘ Hip
+21 1)1O_BO,11256 I‘?
+Honaker, VA 24260
+07/01/2014
+06/30/2019
+L‘ Hip
 
 Michael H. Williams (U Q__
 22 229 Hawks Crest Lane
 Scottsville, VA 24590
-7/ 1/ 14
-6/30/ 19
+07/01/2014
+06/30/2019
 L HIP
 
 23
 Gary C. Groneweg
 23 Hors du Monde
 Farmville, VA 23901
-1294
+07/01/2014
+06/30/2019
 L. Hip
-7/1/14
-6/30/19
 
 24
 Robert and Patty Jones and
@@ -171,27 +192,26 @@ Josh Jones
 J Bar Farm
 894 Blue Spring Road
 Rural Retreat, VA 24368
+07/01/2014
+06/30/2019
 L. Hip
-7/1/14
-6/30/19
 
 25
 R. D. Phillips
 3610 Old Baltimore Road
 Draper, VA 24324
-DP
+07/01/2014
+06/30/2019
 R. Hip
-7/1/14
-6/30/19
 
 26
 Audley Farm
 752 Audley Lane
 P.O. Box 5 10
 Berryville, VA 22611
+07/01/2014
+06/30/2019
 L. Hip
-7/1/14
-6/30/19
 
 27
 William B. Cassell
@@ -199,24 +219,24 @@ Noel G. Cassell
 The Cassell Farm
 787 Farmview Road
 Crockett, VA 24323
-7/1/14
-6/30/19
+07/01/2014
+06/30/2019
 
 28
 R. Shane Marshall
 Brickyard Bulls, LLC
 3323 Axtell Road
 Scottsville, VA 24590
-7/1/14
-6/30/19
+07/01/2014
+06/30/2019
 
 29
 Renee and William Storosh
 English Oaks Farm
 42959 Saint Clair Lane
 Leesburg, VA 20176
-7/1/14
-6/30/19
+07/01/2014
+06/30/2019
 
 30
 Dorinda and Casey Elliott
@@ -224,125 +244,154 @@ Darrell and Joyce Layne
 Triple L Farm
 151 Corbin Dr
 Wytheville, VA 24382
-7/1/14
-6/30/19
+07/01/2014
+06/30/2019
 
+31
 Gabriel J. Steagall
 Mountain Top Farm
 375 Knoll Woods Terrace
 Rosewell, GA 30075
-7/1/14
-6/30/19
+07/01/2014
+06/30/2019
 
 32
 Candy Eubank
 1 5210 Breedens Road
 Doswell, VA 23047
-7/1/14
-6/30/19
+07/01/2014
+06/30/2019
 
+33
 William & Allana Bryant
 Tye River Longhorns
-7/1/14
-6/30/19
 197 Tye River Depot Lane
 Arrington, VA 22922
+07/01/2014
+06/30/2019
 R Hip
 
+34
 Andy and Carrie Meadows
 Springwood Meadows Angus
-34 1891 Rockdaie Road U8/¢ 
+1891 Rockdaie Road U8/¢ 
 Wytheville, VA 24382
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L. Hip
 
+35
 Andy and Carrie Meadows
 Springwood Meadows Angus K/W
-35 1891 Rockdale Road 
+1891 Rockdale Road 
 Wytheville, VA 243
-7/1/14 5/39/19
+07/01/2014
+06/30/2019
 L. Rip
 
+36
 Mathew A. Manbeck
 MAM Farms E1
-3 6 3557 Shutterlee Mill Road 
+3557 Shutterlee Mill Road 
 Staunton, VA 24401
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L. Hip
 
+37
 W. W. Wines, Jr.
 9201 N rt R d
-37 CaiaWp:W{'}: 2403170 \.("”/
-7/1/14 6/3 0/19
+CaiaWp:W{'}: 2403170 \.("”/
+07/01/2014
+06/30/2019
 L. Hip
 
+38
 Lori Canﬁeld
 Domnic Profenno
-3 8 1566 Trenthill Drive a— 
+1566 Trenthill Drive a— 
 Bassett, VA 24055
-7/ 1/ 1 4 6/3 0/ 1 9
+07/01/2014
+06/30/2019
 R. Hip
 
+39
 William Joe Cox
 Cox Farm 6
-39 491 Hardin Road
+491 Hardin Road
 Independence, VA 24348
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 R. Hip
 
+40
 Derrick Hicks
 345 Vest Tannery Rd Q);
-40 Check’ VA 24072
-7/1/14 6/30/19
+Check’ VA 24072
+07/01/2014
+06/30/2019
 R. Hip
 
+41
 Derrick Hicks
 345 Vest Tannery Rd
-41 Check, VA 24072
-7/1/14 6/30/19
+Check, VA 24072
+07/01/2014
+06/30/2019
 L. Hip
 
+42
 Fredin Brothers, Inc.
 38468 US Highway 14 Q’?
-42 R0 BOX 37
+PO BOX 37
 Springﬁeld, MN 56087
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L. Hip
 
+43
 Fredin Brothers, Inc.
 38468 US H’ h 14
-43 P_O_ BOX 371g Way ’\__/\
+P_O_ BOX 371g Way ’\__/\
 Springﬁeld, MN 56087
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L. Hip
 
+44
 Walter and Jane Robinson
 Robindale Farm
-44 13121 Kincannon Road
+13121 Kincannon Road
 Glade Spring, VA 24340
-7/ 1/ 14 6/30/19
+07/01/2014
+06/30/2019
 R. Hip
 
+45
 David M. Nichols
 B k G d An
-45 P_uE)_eB0:r6:2 gus @523
+P_uE)_eB0:r6:2 gus @523
 Tazewell, VA 24651
-7/ 1/ 14 6/30/ 19
+07/01/2014
+06/30/2019
 L. Hip
 
+46
 David Warren George
-Seminole Drive Cattle $
-46 Company
+Seminole Drive Cattle Company
 3955 Crums Church Road
 Berryville, VA 22611
-7/ 1/ 1 4 6/30/19
+07/01/2014
+06/30/2019
 L. Hip
 
+47
 Becky F annin
 Diamond CBC Farm 4
-47 13309 Cardinal Lane
+13309 Cardinal Lane
 Meadowview, VA 24361
-7/1/14 6/39/19
+07/01/2014
+06/30/2019
 L. Hip
 
 48 
@@ -350,269 +399,357 @@ Harold J. Denney
 P.O. B 2088
 (4777 Black Hollow Road) W
 Dublin, VA 
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L. Hip
 
 49 
 Jeff Blevins
 Sunshine Heifers. LLC  H
 3900 South Lindsay Road
-7/1/14 6/30/19
 Chandler, AZ 85286
+07/01/2014
+06/30/2019
 R. Hip
 
 50 
 ADR Cattle Company Inc. AD K
-2830 Nicholas Avenue 7/1/14
+2830 Nicholas Avenue
 Roanoke, VA 24012
+07/01/2014
+06/30/2019
 L. Hip
-6/30/19
 
+51
 Mark and Tammy Stuck
 Big Cedar Ridge Ranch
-51 4053 Sumerduck Road 7/ 1/ 14 6/3 0/ 1 9
+4053 Sumerduck Road
 P.O. Box 51
 Sumerduck,VA 22742
+07/01/2014
+06/30/2019
 R. Hip
 
+52
 Dean Kirk
 K’ k F , I .
-52 2;; ,,::3;:, 3:1, '4 7/1/14 6/30/19
-Wytheville, VA 243 82
+2;; ,,::3;:, 3:1, '4
+Wytheville, VA 24382
+07/01/2014
+06/30/2019
 R. Hip
 
+53
 Gary W. Hornbaker
-90 Lord Fairfax Highway ®
-53 Beiiyviiiei VA 22611 7/1/14 6/30/19
+90 Lord Fairfax Highway
+Berryville, VA 22611
+07/01/2014
+06/30/2019
 L. Hip
 
+54
 Robert O. Blau &
 Ed d C. Bl
-54 56048aDueensl51dlrry Avenue 3 /T 7/1/14 6/3 0/19
+56048aDueensl51dlrry Avenue
 Springﬁeld, VA 22151
+07/01/2014
+06/30/2019
 R. Hip
 
+55
 Thousand Hills Farm, LLC
 John and Joel McClintic _i..H_~_-
-55 36860 North Fork Road 7/1/14 6/30/19
+36860 North Fork Road
 Purcellville, VA 20132
+07/01/2014
+06/30/2019
 R. Hip
 
+56
 Robert E. Tate
 T. Cattle Co. -1"’
-56 575 TA Manor Lane 7/1/14 6/30/19
+575 TA Manor Lane
 Red Oak, VA 23964
+07/01/2014
+06/30/2019
 L. Hip
 
+57
 James T. Wilson
 W'l F , LLC
-57 34l)9O6nWi‘d1eri1er Valley Road W 
+34l)9O6nWi‘d1eri1er Valley Road W 
 Glade Spring, VA 24340
-7/1/14 6/3 0/19
+07/01/2014
+06/30/2019
 L. Hip
 
+58
 James & Beatrice Schallert
-10047 Highway 104 ®
-58 Tucumcari, NM 88401
-7/1/14 6/30/19
+10047 Highway 104
+Tucumcari, NM 88401
+07/01/2014
+06/30/2019
 L. Rib
 
+59
 Jeffrey D. Summey
 2368 Mallory Road W
-59 Gaiaxi VA 24333
-7/1/14 6/30/19
+Gaiaxi VA 24333
+07/01/2014
+06/30/2019
 L. Hip
 
+60
 Tennessee Livestock
 Producers, Inc.
-60 P.O. Box 313 F
+P.O. Box 313 F
 147 Bear Creek Pike
 Columbia, TN 38402
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L. Hip
 
+61
 Steve Whetzel
 Triple Creek Farm -57:
-61 479 Three Creeks Road
+479 Three Creeks Road
 Winchester, VA 22603
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L. Hip
 
+62
 Samuel K. Ellington, Jr.
 G' A
-62 44I51S(e}1i1r5ser1lggMountain Lane G:‘ 
+44I51S(e}1i1r5ser1lggMountain Lane G:‘ 
 Blue Grass, VA 24413
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 R. Hip
 
+63
 Jon Voss
 V F , I .
 South Boston, VA 24592
+07/01/2014
+06/30/2019
 L. Hip
 
+64
 S. Craig Shaffer ‘
 Hidden Hollow F arm :51/.-1
-64 123 Poplar Hollow Lane
+123 Poplar Hollow Lane
 Castleton, VA 22716
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 i__ Hip
 
+65
 Lewis T. Pratt
 P tt F , I .
-65 3320 §1i;“§,1,‘1‘fm,, Rd LT P 
+3320 §1i;“§,1,‘1‘fm,, Rd LT P 
 Draper, VA 24324
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L. Hip
 
+66
 William A. Gillespie
 Gillespie Cove Farm $1
-66 191 Clinch Mountain Road
+191 Clinch Mountain Road
 Tazewell, VA 24651
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L. Hip
 
+67
 Megan Stine
 157 Little Meadows Lane (17
-67 Amherst, Virginia 24521 /\./
-7/ 1/ 14 6/3 0/19
+Amherst, Virginia 24521 /\./
+07/01/2014
+06/30/2019
 R. Hip
 
+68
 Bryan and Jessica Shafer
 91 T d 1 L T‘
 63 Gree:1vIi)l(l)e1jVi1rngeinia 24440 5
-7/1/14 5/39/19
+07/01/2014
+06/30/2019
 L. Hip
 
+69
 Mary M. Stokes
 A h’ F
-69 P11315132: 712111,” 7C 
+P11315132: 712111,” 7C 
 Upperville, VA 20185
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 R. Hip
 
 David L. Caldwell
 Mystic Hill Farm 04D
 70 12227 Mystic Hill Lane
 Culpeper, VA 22701
-7/1/14 6/31” 19
+07/01/2014
+06/30/2019
 L. Hip
 
+71
 Mark Westall
-Buckwild Woods Farm and
-71 Forestry A 7/ 1/ 14 6/30/ 19
+Buckwild Woods Farm and Forestry
 522 Thompson Circle
 Colonial Beach, VA 22443
+07/01/2014
+06/30/2019
 R. Hip
 
+72
 Robert T. Rhoad
 Erica T. Rhoad
-72 £I0r(1:gv1ew Farm & Stables 1'9
+£I0r(1:gv1ew Farm & Stables 1'9
 5307 James Madison Hwy
 The Plains, VA 20198
-77i7i4 6730719
+07/01/2014
+06/30/2019
 L. Hip
 
+73
 Erik J. Walton
 547 W lt M D "
-73 1,,,,1,“g,§,§‘ Ga?/‘S, A112‘/2115277 _\_’....~/7 
-7/1/14 6/30/19
+1,,,,1,“g,§,§‘ Ga?/‘S, A112‘/2115277 _\_’....~/7 
+07/01/2014
+06/30/2019
 L. Hip
 
+74
 Bryant and Jamie Hamill
 Red Horse Ranch SR
-74 1970 Moseiey Road
+1970 Moseley Road
 Moseley, VA 23120
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L. Hip
 
+75
 Robbie and Lisa Reeves
 2742 S ' H’ h 1 5'
-75 Mount CSedl1oCn vgAW2a2,843 V
-7/1/ 14 6/31” 19
+Mount CSedl1oCn vgAW2a2,843 
+07/01/2014
+06/30/2019
 R. Hip
 
+76
 D’Arcy H. Clark
 c2c, LLC C 2
-76 12206 Moriah Hill Lane
+12206 Moriah Hill Lane
 Culpeper, VA 22701
-7/ 1/ 14 6/30/19
+07/01/2014
+06/30/2019
 L. Hip
 
+77
 George and Keith McGuire __
 331 J enan Lane (‘(71
-77 Tazewell VA 24651
-7/ 1/ 14 6/30/19
+Tazewell VA 24651
+07/01/2014
+06/30/2019
 L. Shoulder
 
+73
 Jon A. Willoughby
 Diamond Hill Farm
-73 1106 Mollies Road
-7/1/14 6/31” 19
-G1adYSa VA 245 54 L. Shoulder
+1106 Mollies Road
+G1adYSa VA 245 54
+07/01/2014
+06/30/2019
+L. Shoulder
 
+79
 Jon A. Willoughby
 Diamond Hill Farm
-79 1106 Mollies Road 
+1106 Mollies Road 
 Gladys, VA 24554
-7/1/14 6/30/19R. Sh um,
+07/01/2014
+06/30/2019
+R. Sh um,
 
+80
 Jon A. Willoughby
 Diamond Hill Farm
-80 1106 Mollies Road 
+1106 Mollies Road 
 Gladys, VA 24554
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L. Hip
 
+81
 Jon A. Willoughby
 Diamond Hill Farm
-81 1106 Mollies Road
+1106 Mollies Road
 Gladys, VA 24554
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 R. Hip
 
+82
 Ronald E. Shelton
-Diamond S Farms ®
-82 41 1 Buckscrape Road
+Diamond S Farms
+41 1 Buckscrape Road
 Union Hall, VA 24176
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 R. Hip
 
+83
 Jeffrey & Crystal Hicks
 1064 Nighthawk Drive /W
-83 Christiansburg, VA 24073
-7/1/14 5/30/19
+Christiansburg, VA 24073
+07/01/2014
+06/30/2019
 L. Hip
 
+84
 Jacob and Rachel Corwin
 1916 B ' ht R d
-84 G,etna,r{§A 345°; R
-7/1/14 6/30/19
+G,etna,r{§A 345°; R
+07/01/2014
+06/30/2019
 L. Hip
 
+85
 Michael Kent Firestone
 LVP L’ t k LLC
-85 33525 l:I:sNs)‘tcead Lane
-7/1/14 5/30/19
-Upperville, VA 20184 L Hip
+33525 l:I:sNs)‘tcead Lane
+Upperville, VA 20184
+07/01/2014
+06/30/2019
+L Hip
 
+86
 Richard E. Dovell
 487 Hamilton Circle
-86 Front Royal, VA 22630 ®
-7/ 1/ 14 6/30/ 19
+Front Royal, VA 22630
+07/01/2014
+06/30/2019
 R. Hip
 
+87
 Ben Coleman
 M t ' R F
-87 mm am um am /\/WV
+mm am um am /\/WV
 2734 Charlemont Road
 Big Island, VA 24526
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 
+88
 Larry D. Reynolds
 W 1 t S ' F
-88 i3§imil3iu§;:§:  3/
+i3§imil3iu§;:§:  3/
 Newport, VA 24128
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L. Hip
 
 89
@@ -621,7 +758,8 @@ Whetsel CH
 Working Horse Cattle Co, LLC
 7177 Trissels Road
 Broadway, VA 22815
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 L. Hip
 
 90 
@@ -629,103 +767,132 @@ Dustin Altizer
 P.O. Box 118 @
 59 Old Dominion Drive
 Rosedale, VA 24280
-7/1/14 6/30/19
+07/01/2014
+06/30/2019
 R. Hip
 
+91
 Clint Edward Sykes
 Shannon Hart Sykes _,-
-91 2758 North 71 /P.O. Box 307 / \
+2758 North 71 /P.O. Box 307 / \
 Lebanon, Virginia 24266
-7/1/14 5/30/19
+07/01/2014
+06/30/2019
 L. Ribs
 
+92
 Clint Edward Sykes
 2758 North 71 /P.O. Box 307
-92 Lebanon, Virginia 24266
-7/ 1/ 14 6/30/19
+Lebanon, Virginia 24266
+07/01/2014
+06/30/2019
 L. Shoulder
 
+93
 Harold McDaniel, Jr.
 1488 South 71 M
-93 Castlewood, VA 24224 (1
-7/1/14 6/30/19
+Castlewood, VA 24224 (1
+07/01/2014
+06/30/2019
 R. Hip
 
+94
 Carlos and Denise Bramhall
 C' l B C ttl C
-94 i ;§°i"'iiii Riade Ompany
+i ;§°i"'iiii Riade Ompany
 Dillwyn, VA 23936
-7/1/14 6/3 0/19
+07/01/2014
+06/30/2019
 L. Hip
 
+95
 John A. and Marcella M.
 Jones -ﬁ_
 Bar J Ranch
-95 4799 Black Hollow Heights
-Lane
-7/1/14 6/30/19
+4799 Black Hollow Heights Lane
+Dublin, VA 24084
+07/01/2014
+06/30/2019
 L. Hip
 
-Dublin, VA 24084
+96
 Robert Durr
 4753 Straightstone Road %'
-96 Long Island, VA 24569
-7/1/14 6/30/19
+Long Island, VA 24569
+07/01/2014
+06/30/2019
 R. Hip
 
+97
 Virginia Tech Beef Center
 3440 Litton Reaves Hall \/T
-97 Blacksburg, VA 24061-0306
-7/1/14 5/30/19
+Blacksburg, VA 24061-0306
+07/01/2014
+06/30/2019
 L. Hip
 
+98
 Richard Puckett
 P. O. Box 663 P
-93 Tazewell, VA 24651
-7/1/14 5/3 0/1 9
+Tazewell, VA 24651
+07/01/2014
+06/30/2019
 L. Hip
 
+99
 Richard Puckett
 P. O. Box 663
-99 Tazewell, VA 24651 P
-7/1/14 6/30/19
+Tazewell, VA 24651 P
+07/01/2014
+06/30/2019
 R. Hip
 
+100
 Richard Puckett
 P. O. Box 663
-100 Tazewell, VA 24651 P
-7/ 1/ 14 6/30/ 19
+Tazewell, VA 24651 P
+07/01/2014
+06/30/2019
 L. Rib
 
+101
 Larry Martin
 812 Black Lick Road W1
-l0l Wytheville, VA 24382
-7/9/14 6/30/19
+Wytheville, VA 24382
+07/01/2014
+06/30/2019
 R. Hip
 
+102
 Todd Caudill
 Caudill Livestock 6/
-102 305 Sinking Springs Hollow
+305 Sinking Springs Hollow
 New Castle, VA 24127
-7/9/14 6/30/19
+07/01/2014
+06/30/2019
 L. Shoulder
 
+103
 William S. Hupman
-103 §S3°§fa§E§ ‘$333518 Road 499
+§S3°§fa§E§ ‘$333518 Road 499
 FY0111 Royal, VA
-7/18/14 6/30/19
+07/01/2014
+06/30/2019
 L. Shoulder
 
+104
 Justin Knight
 814 East Main Street 32
-104 Richmond, VA 23219
+Richmond, VA 23219
 7/18/14 6/30/19
 L. Hip
 
+105
 William David Weisenburger,
-105 12937 Joplin Road Lg;
+12937 Joplin Road Lg;
 Triangle, VA 22172
- 7/18/14 6/30/19
+07/01/2014
+06/30/2019
 R. Hip
 
 106
@@ -733,16 +900,16 @@ William H. McDonald
 McDonald Farms
 2070 Walnut Spring Road
 Blacksburg, VA 24060
-7/18/14
-6/30/19
+07/01/2014
+06/30/2019
 
 107
 Wayne Spencer
 Wolf Hill Farm
 562 Furrs Mill Road
 Lexington, VA 24450
-7/18/14
-6/30/19
+07/01/2014
+06/30/2019
 
 108
 Jonathan (Thach) Winslow
@@ -750,34 +917,34 @@ Rocking C Land and
 Livestock, LLC
 P.O. Box 400
 Lander, WY 82520
-7/18/14
-6/30/19
+07/01/2014
+06/30/2019
 
 109
 Samuel Garrett
 6309 Trinity Church Road
 Church Road, VA 23833
-7/24/14
-6/30/19
+07/01/2014
+06/30/2019
 
 110
 Joshua Crockett
 178 Fleming Road
-Wytheville, VA 243 82
-8/14/14
-6/30/19
+Wytheville, VA 24382
+07/01/2014
+06/30/2019
 
 111
 Ray Pence
 62 Pence Land Road
 Middletown, VA 22645
-8/26/14
-6/30/19
+07/01/2014
+06/30/2019
 
 112
 Thomas W. Evans
 Pilot Farms
 2400 Spring Mill Road
 Concord, VA 24538
-9/11/14
-6/30/19
+07/01/2014
+06/30/2019
