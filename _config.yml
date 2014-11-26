@@ -1,0 +1,8 @@
+# Rendering Defaults
+markdown:    kramdown
+highlighter: pygments
+kramdown:
+  input:         GFM
+  auto_ids:      true
+  entity_output: as_char
+  smart_quotes:  lsquo,rsquo,ldquo,rdquo
