@@ -1,0 +1,18 @@
+<table>
+<thead>
+<tr>
+	<th>Brand</th>
+	<th>Registrant</th>
+	<th>Address</th>
+</tr>
+</thead>
+<tbody>
+{%for brand in site.data.brands %}
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/openva/revertendi/master/images/{{ brand.image }}" height="50"></td>
+		<td>{{ brand.registrant }}</td>
+		<td>{{ brand.address }}</td>
+	</tr>
+{%endfor %}
+</tbody>
+</table>
